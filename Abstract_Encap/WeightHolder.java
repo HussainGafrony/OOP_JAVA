@@ -1,0 +1,3 @@
+interface WeightHolder {
+    boolean leftCargo();
+}
